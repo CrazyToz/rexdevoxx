@@ -1,6 +1,6 @@
 # rexdevoxx
 
-## Petits mots sur les versions
+## Petit mot sur les versions
 
 * Depuis java 10, une version majeur tous les 6 mois
     * Avant, c'était plutôt une tous les 2 ou 3 ans
